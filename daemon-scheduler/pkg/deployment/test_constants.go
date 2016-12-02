@@ -20,7 +20,8 @@ const (
 	taskDefinition   = "arn:aws:ecs:us-east-1:12345678912:task-definition/test"
 	taskARN1         = "arn:aws:ecs:us-east-1:12345678912:task/c024d145-093b-499a-9b14-5baf273f5835"
 	taskARN2         = "arn:aws:ecs:us-east-1:12345678912:task/a1d71628-01e3-4013-b18c-6e14032a9522"
-	cluster          = "arn:aws:ecs:us-east-1:123456789123:cluster/test"
+	cluster1         = "arn:aws:ecs:us-east-1:123456789123:cluster/test1"
+	cluster2         = "arn:aws:ecs:us-east-1:123456789123:cluster/test2"
 	instanceARN      = "arn:aws:us-east-1:123456789123:container-instance/4b6d45ea-a4b4-4269-9d04-3af6ddfdc597"
 	desiredTaskCount = 5
 )
